@@ -5,8 +5,9 @@
 
 - 🌱 I know HTML and am improving my basic coding skills while currently learning Java, CSS, C++, and web development with WordPress.
 - 📫 Reach me at: legiit.nayem@gmail.com  
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/md-abu-nayem-a19250436)
-- 🟢 Hire me on [Upwork](https://www.upwork.com/freelancers/~014dde9f65b89a6122?mp_source=share) | [Fiverr](https://www.fiverr.com/pe/mmxEW2V) | [Legiit](https://legiit.com/nayem_works/)
+- 🌐 Visit my [Website](https://websolutionforge.com/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/md-abu-nayem-a19250436) | [Facebook](https://www.facebook.com/profile.php?id=61594266647288)
+- 🟢 Hire me on [Upwork](https://www.upwork.com/freelancers/~014dde9f65b89a6122?mp_source=share)
 
 ---
 ---
